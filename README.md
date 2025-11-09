@@ -4,6 +4,8 @@
 
 #### 功能介绍
 
+[https://www.npmjs.com/package/electron-type-bridge](https://www.npmjs.com/package/electron-type-bridge)
+
 一个用于在 Electron 的主进程与渲染进程之间，实现类型安全（TypeScript）的进程间通信 (IPC) 的库。通过完整的类型推断和智能提示，为开发者提供卓越的 IDE 开发体验。
 ||是否具有|
 |--|--|
