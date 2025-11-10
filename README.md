@@ -1,6 +1,6 @@
-中文
+中文 | [English](./README_English.md)
 
-本人承接开发项目。如有需求，欢迎联系：微信dazhang32（请备注“GitHub合作”）。
+本人承接开发、维护项目。如有需求，欢迎联系：微信dazhang32（请备注“GitHub合作”）。
 
 #### 功能介绍
 
@@ -17,6 +17,10 @@
 ```bash
 npm i electron-type-bridge
 ```
+
+#### Issues
+
+[https://github.com/LianSchedule/electron-type-bridge-demo/issues](https://github.com/LianSchedule/electron-type-bridge-demo/issues)
 
 #### 用法示例
 
